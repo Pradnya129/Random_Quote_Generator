@@ -1,5 +1,5 @@
 <h1> Random Quote Generator</h1>\n
-This is a simple Random Quote Generator created using HTML, CSS, and JavaScript, powered by a free API.\n
+This is a simple Random Quote Generator created using HTML, CSS, and JavaScript, powered by a free API.<\n>
 
 #Overview\n
 This project generates random quotes using a free API and displays them on the webpage. It's a fun and interactive way to get inspired or amused by different quotes.
