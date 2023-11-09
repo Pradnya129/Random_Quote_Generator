@@ -1,4 +1,4 @@
-<h1> Random Quote Generator</h1>x
+<h1> Random Quote Generator</h1>
 This is a simple Random Quote Generator created using HTML, CSS, and JavaScript, powered by a free API.
 
 #Overview
