@@ -1,0 +1,14 @@
+.br-5{
+    border-radius: 12px;
+
+}
+
+.middle{
+    margin: auto auto;
+}
+.container-fluid{
+    width: 100%;
+    height: 600px;
+    background-image: url('img/alice-donovan-rouse-yu68fUQDvOI-unsplash.jpg');
+    background-size: cover;
+}
