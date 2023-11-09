@@ -9,7 +9,9 @@ Random Quotes: The generator fetches and displays a random quote from a free API
 Styling: The project includes basic styling using CSS to make the webpage visually appealing.
 
 <h1>Screenshots</h1>
-![Uploading image.png…]()
+
+![image](https://github.com/Pradnya129/Random_Quote_Generator/assets/129608807/d34bb9ad-59bc-4b12-a4bb-c6f98feb27e6)
+
 
 
 
